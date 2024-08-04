@@ -1,5 +1,6 @@
 baseURL: https://gigatrends.blog/
-languageCode: ru-ru
+defaultContentLanguage : ru
+languageCode: ru-RU
 title: GigaTrends
 theme: ["PaperMod"]
 
@@ -17,4 +18,3 @@ params:
   socialIcons: # optional
     - name: "telegram"
       url: "https://t.me/+-BF7AlSm2fVjMjRi"
-    
