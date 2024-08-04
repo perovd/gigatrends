@@ -1,0 +1,20 @@
+baseURL: https://gigatrends.blog/
+languageCode: ru-ru
+title: GigaTrends
+theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: Добро пожаловать на GigaTrends!
+    Content: На нашем техноблоге вы найдете свежие новости, аналитические статьи и обзоры новейших гаджетов. Мы рассказываем о текущих и будущих технологических трендах. Независимо от того, кто вы — IT-профессионал, энтузиаст или просто любопытный читатель — наш контент будет интересен и полезен.
+  defaultTheme: light
+  disableThemeToggle: true
+  # images: ["logo.png"]
+  # label:
+  #   text: "GigaTrends"
+  #   icon: /logo.png
+  #   iconHeight: 100
+  socialIcons: # optional
+    - name: "telegram"
+      url: "https://t.me/+-BF7AlSm2fVjMjRi"
+    
