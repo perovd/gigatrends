@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Как общий искусственный интеллект (AIG) изменит рынок труда"
+# description: "Как общий искусственный интеллект (AIG) изменит рынок труда"
 canonicalURL: "https://gigatrends.blog/posts/aig/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
